@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars", "CodeWars\CodeWa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.Test", "CodeWars.Test\CodeWars.Test.csproj", "{5DE78246-87EF-4D6C-9F5D-A8E33D02730F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{6556E173-FB87-4A16-B51D-614A4D79D8F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode.Test", "LeetCode.Test\LeetCode.Test.csproj", "{AE5E345C-5699-4055-A21D-13AA9C929C0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5DE78246-87EF-4D6C-9F5D-A8E33D02730F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DE78246-87EF-4D6C-9F5D-A8E33D02730F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DE78246-87EF-4D6C-9F5D-A8E33D02730F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6556E173-FB87-4A16-B51D-614A4D79D8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6556E173-FB87-4A16-B51D-614A4D79D8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6556E173-FB87-4A16-B51D-614A4D79D8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6556E173-FB87-4A16-B51D-614A4D79D8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE5E345C-5699-4055-A21D-13AA9C929C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5E345C-5699-4055-A21D-13AA9C929C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5E345C-5699-4055-A21D-13AA9C929C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5E345C-5699-4055-A21D-13AA9C929C0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
