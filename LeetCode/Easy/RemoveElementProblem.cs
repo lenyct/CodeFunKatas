@@ -1,0 +1,23 @@
+﻿namespace LeetCode.Easy
+{
+    public static class RemoveElementProblem
+    {
+        //Remove Element
+        public static int RemoveElement(int[] nums, int val)
+        {
+            int i = 0;
+            int j = 0;
+            while (i < nums.Length)
+            {
+                if (nums[i] != val)
+                {
+                    nums[j] = nums[i];
+                    j++;
+                }
+                i++;
+            }
+            return j;
+            //Look into linq.toarray.COPYTO
+        }
+    }
+}
