@@ -1,0 +1,8 @@
+{
+  // Workspace settings to disable GitHub Copilot completions for this project
+  "github.copilot.enable": false,
+  // Disable inline suggestions from Copilot
+  "github.copilot.inlineSuggest.enable": false,
+  // Turn off any autocomplete mode Copilot may offer
+  "github.copilot.autocomplete": "off"
+}
